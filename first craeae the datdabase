@@ -1,0 +1,41 @@
+first craeae the datdabase
+then timestap to create a migrateion
+then use touch to create a new file in the db/migrate folder
+
+when creating a migrayion use a def change method.
+qithin teh method timetsamp is t.timestamp
+
+when referenceing a foreign key use t.references when creating a table i.e
+
+t.references :doctors, foreign_keys: true
+
+then db:migrate
+
+assiciations
+
+if a doctot has many interns you code: "has_many :interns" within teh model
+
+an intern has 1 doctors so therefore : "belongs_to :doctors"
+
+rake console is aplayground where you can test a db and access it.
+
+intern.doctor = doctor
+
+when the need to edit a migration file arrives we need to create a new migration file and remove and add columns. you cannot just edit and migrate.
+
+when adding
+Consulation.create!(doctor: doctor, patient: patient)
+
+in order to get a list within a joining table, we have to use "through"
+
+when usuing validation
+
+"validates :last_name, presence: true" - this is the sybtax to make sure its not craeted without this objects presence
+
+to check validation use "doctor.valid?"
+
+to see teh errrors "doctor.errors.full_messages" / "doctor.errors.messages"
+
+vaidates :first_name uniquness: { scope: :last_name }
+validates :email, format { with: :regex}
+
