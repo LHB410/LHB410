@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on a handy DnD app for all your homebrew rules
 - 🌱 I’m currently learning React and Python
