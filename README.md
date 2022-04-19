@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: laura@laurabrooks.codes
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The nudibranch (a teeny-tiny sea creature) is called umiushi in Japanese, it literally means sea cow. Weird for such a small thing!
-- 💻 This is my portfolio http://laurabrooks.codes/ check it out!
+- 💻 This is my portfolio http://laurabrooks.codes/ check it out! <nl>
+
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LHB410&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&sideLabels=7881DD)](https://git.io/streak-stats)
 
 [![LHB410's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHB410&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
