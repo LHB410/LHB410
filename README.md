@@ -3,7 +3,7 @@
 About me:
 
 - 🔭 I’m currently working on a handy DnD app for all your homebrew rules
-- 🌱 I’m currently learning React and Python
+- 🌱 I’m currently learning .NET, C#, and Mud Blazor
 - 👯 I’m looking to collaborate on anything! Hit me up and let's collab
 - 🤔 I’m looking for help with Python it's tricky sometimes...
 - 💬 Ask me about my side projects! I always have something on the side.
