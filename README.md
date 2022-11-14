@@ -10,7 +10,7 @@ About me:
 - 📫 How to reach me: laura@laurabrooks.codes
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The nudibranch (a teeny-tiny sea creature) is called umiushi in Japanese, it literally means sea cow. Weird for such a small thing!
-- 💻 This is my portfolio http://www.laurabrooks.codes/ check it out! <nl>
+- 💻 This is my portfolio https://www.laurabrooks.codes/ check it out! <nl>
 
 
 
